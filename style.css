@@ -73,7 +73,7 @@ footer{
 
 }
 
-image:hover{
+:hover{
     cursor: pointer;
 }
 
